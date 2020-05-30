@@ -1,0 +1,40 @@
+html, body {
+    margin:0;
+    padding: 0;
+    height: 100%;
+}
+
+.container {
+    min-height: 100%;
+    position: relative;
+}
+
+.navbar-brand {
+    background-color:#b68440;
+    color: white;
+    border: 5px solid #b68440;
+}
+
+.nav-link {
+    color: #b68440;
+}
+
+
+.main {
+    padding: 10px;
+    padding-bottom: 60px;
+}
+
+.footer {
+    background-color: #8E9CA5;
+    color: white;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    border-top: 5px solid #b68440;
+}
+
+.navbar {
+    border-bottom: 5px solid #b68440;
+}
