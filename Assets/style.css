@@ -5,9 +5,11 @@ html, body {
 }
 
 .container {
-    min-height: 100%;
     position: relative;
-}
+    width: 50%;
+    border: 2px solid #8E9CA5;
+    top: 150px;
+    }
 
 .navbar-brand {
     background-color:#b68440;
@@ -19,10 +21,13 @@ html, body {
     color: #b68440;
 }
 
-
-.main {
+.img-fluid {
+    max-width: 50%;
     padding: 10px;
-    padding-bottom: 60px;
+}
+
+.portfo {
+    width: 650px;
 }
 
 .footer {
@@ -32,9 +37,27 @@ html, body {
     left: 0px;
     bottom: 0px;
     width: 100%;
+    height: 8%;
     border-top: 5px solid #b68440;
 }
 
 .navbar {
     border-bottom: 5px solid #b68440;
+}
+
+.page-header {
+    color: #b68440;
+}
+
+.containerImage {
+    position: relative;
+}
+
+.text-block {
+    position: relative;
+    bottom: 20px;
+    right: 20px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
 }
