@@ -1,9 +1,0 @@
-Angus’ homework week 2
-First step in each document was to build a layout that will be common across all three. After research on Bootstrap, I chose to go with a translucent header & Navbar, with the header & navigation on opposite sides like in the picture. I then changed the colour to a brown I like. I deleted some of the button options I don’t want & just kept basic buttons. Had to do a lot of CSS styling to get the layout correct, and put it in a container so as to be responsive.
-I then worked on the footer. I was able to pin this to the foot of the page by using absolute position & bottom 0px. I styled it in the CSS file.
-I then put the body of the page in a container. Made it 50% of the width of the page, thin outline & had to move it down as it was behind the header. Put a header inside, and now this template could be copied across all three pages as the backbone.
-For the About Me or Index page, I broke it into rows and columns, and placed my profile photo inside. After some research, I discovered I could give it 2 classes for text wrap, and to make it responsive.
-On the portfolio page I found some good-sized photos on Pixabay, and put them in columns & rows in the container for a great layout. But try as I might, I couldn’t get text to sit on top of them. It was something to do with the positioning & containerImage I was trying to use to hold the images & text together.
-I then moved onto the contact page, and found a template for a form through Bootstrap. The formatting was difficult, and I again got stuck trying to move the fields more central.
-I linked each page together through the nav bar.
-Once that was done I made sure the page was responsive. It is not perfect, but through much trying I was not able to make it perfect. I will need to come back to this at a later stage. It still looks quite good though in most formats.
