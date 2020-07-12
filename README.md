@@ -1,8 +1,8 @@
 # Angus Russell - Portfolio
 
-![image](https://github.com/gussell87/AngusR-Portfolio/blob/master/assets/portfolio.jpg?raw=true)
+![image](https://github.com/gussell87/AngusR-Portfolio/blob/master/Assets/portfolio.jpg?raw=true)
 
-![image](https://github.com/gussell87/AngusR-Portfolio/blob/master/assets/portfolioMobile.jpg?raw=true)
+![image](https://github.com/gussell87/AngusR-Portfolio/blob/master/Assets/portfolioMobile.jpg?raw=true)
 
 
 ## Portfolio User Story
